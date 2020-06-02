@@ -26,7 +26,7 @@ public class Practice6 extends JFrame {
    JList mylist3= new JList(fruit); 
    public Practice6() {
       
-      setTitle("20175099 юлеб©╠");
+      setTitle("20175099 юлеб©╠ ");
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       
       GridLayout grid = new GridLayout(10,10);
